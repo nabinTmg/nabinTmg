@@ -2,10 +2,12 @@
 
 ## I'm a Developer, Student, and Hardworker!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play soccer and my favorite Plyer is Crisiano Ronaldo becasue he is diffrent
+- 🌱 I’m Currently Working on My Portfolio and Learning React Js
+- 👯 I’m Looking to Collaborate With other Content Creators
+- 🥅 2021 Goals: To Get My First Job as a Front-End Developer, Work Hard and Learn More
+- 🥅 I'm More Focusing on Career and Entry-Level Front-End Developer Job
+- 🥅 I'm a Graduate Student of [yearup] Greater Boston Where I Studied Software Quality Assurance (QA) and Earned an Internship at Harvard Business School Executive Education.
+- ⚡ Fun fact: I Play Soccer and My Favorite Plyer is Cristiano Ronaldo Because He is Different
 
 ### Connect with me:
 
@@ -35,4 +37,5 @@
 [website]: https://nabintmg.com
 [twitter]: https://twitter.com/nabin_tg
 [linkedin]: https://www.linkedin.com/in/nabin-tmg
+[yearup]: https://www.yearup.org/
 [null-link]: #
