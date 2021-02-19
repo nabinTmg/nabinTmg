@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I play soccer and my favorite player is Cristiano Ronaldo because he is different ⚽️
 
 <br />
-<br />
 
 ##### Connect with me:
 
