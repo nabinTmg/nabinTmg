@@ -1,15 +1,19 @@
-### Hi there, I'm Nabin! - aka [nabinTmg][website] 👋
+## Hi there, I'm Nabin! - aka [nabinTmg][website] 👋
 
-## I'm a Developer, Student, and Hardworker!!
+## I'm a Developer, Student, Self-Learners, and Hardworker !!
 
-- 🌱 I’m Currently Working on My Portfolio and Learning React Js
-- 👯 I’m Looking to Collaborate With other Content Creators
-- 🥅 2021 Goals: To Get My First Job as a Front-End Developer, Work Hard and Learn More
-- 🥅 I'm More Focusing on Career and Entry-Level Front-End Developer Job
-- 🥅 I'm a Graduate Student of [yearup] Greater Boston Where I Studied Software Quality Assurance (QA) and Earned an Internship at Harvard Business School Executive Education.
-- ⚡ Fun fact: I Play Soccer and My Favorite Plyer is Cristiano Ronaldo Because He is Different
+- 🌱 I’m currently working on my portfolio 😉
+- 👯 I’m looking to collaborate with other content creators
+- 📖 I’m currently learning ReactJs, Github and more 😎
+- 🥅 2021 goals: To get my first job as a front-end developer and work hard
+- 👨‍💼 I'm more focusing on career and entry-level front-end developer job
+- 👨🏻‍🎓 I'm a graduate student of [Yearup] Greater Boston where I studied Software Quality Assurance (QA) and earned an internship at Harvard business school executive education
+- ⚡ Fun fact: I play soccer and my favorite player is Cristiano Ronaldo because he is different ⚽️
 
-### Connect with me:
+<br />
+<br />
+
+##### Connect with me:
 
 [<img align="left" alt="nabin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nabin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+##### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][null-link]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][null-link]
