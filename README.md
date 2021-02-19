@@ -1,6 +1,6 @@
 ## Hi there, I'm Nabin! - aka [nabinTmg][website] 👋
 
-## I'm a Developer, Student, Self-Learners, and Hardworker !!
+## I'm a Developer, Student, Self-Learner, and Hardworker !!
 
 - 🌱 I’m currently working on my portfolio 😉
 - 👯 I’m looking to collaborate with other content creators
