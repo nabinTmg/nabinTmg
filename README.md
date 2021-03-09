@@ -37,7 +37,7 @@
 
 <br />
 
-[website]: https://nabintmg.com
+[website]: https://tamangnabin.com/
 [twitter]: https://twitter.com/nabin_tg
 [linkedin]: https://www.linkedin.com/in/nabin-tmg
 [yearup]: https://www.yearup.org/
